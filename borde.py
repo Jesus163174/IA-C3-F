@@ -3,7 +3,7 @@ import cv2
 import tensorflow
 import keras
 #Cargar la mascara
-imagen = cv2.imread('images/15.jpg',0)
+imagen = cv2.imread('vueltaU/1.jpg',0)
  
 #Crear un kernel de '1' de 3x3
 kernel = np.ones((3,3),np.uint8)
