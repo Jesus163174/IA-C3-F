@@ -1,0 +1,6 @@
+stop => 30 jesus
+prohibido estacionarse => 30 ardilla
+vuelta en u => 30 jesus
+escolar => 30 ardilla
+vuelta derecha => 15 jesus
+vuelta izquierda => 15 ardilla
